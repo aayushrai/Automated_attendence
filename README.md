@@ -55,20 +55,20 @@ pip install face_recognition
 
 ### Start Page
 
-![image](https://raw.githubusercontent.com/aayushrai/Automated_attendence/origin/images/1.png)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/1.PNG)
 
 ### Data Collection Page
 
-![image](https://drive.google.com/file/d/1tg_hAS12coS7Oks3Vg3dEkeha6qWJ2fs/view?usp=sharing)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/2.PNG)
 
 ### Show Record Page
 
-![image](https://drive.google.com/file/d/1P23Ig1D_TE-uGSUc_yFPDV1khZaYIQ4h/view?usp=sharing)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/4.PNG)
 
 ### Add Time Table Page
 
-![image](https://drive.google.com/file/d/19OZkx47qKenmK3H6N7etpBZnWcbdb6uq/view?usp=sharing)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/3.PNG)
 
 ### Enrolled Students Page
 
-![image](https://drive.google.com/open?id=1tg_hAS12coS7Oks3Vg3dEkeha6qWJ2fs)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/5.PNG)
