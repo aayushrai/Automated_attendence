@@ -59,7 +59,7 @@ pip install face_recognition
 
 ### Data Collection Page
 
-![image](https://drive.google.com/file/d/1ValH02I6hDYF1hjkBxp5ZZwJXM3OnORq/view?usp=sharing)
+![image](https://drive.google.com/file/d/1tg_hAS12coS7Oks3Vg3dEkeha6qWJ2fs/view?usp=sharing)
 
 ### Show Record Page
 
