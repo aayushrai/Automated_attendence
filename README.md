@@ -55,7 +55,7 @@ pip install face_recognition
 
 ### Start Page
 
-![image](https://drive.google.com/file/d/1rCKajwp58Es7cXvGfVpnR2jnFR53KKqD/view?usp=sharing)
+![image](https://raw.githubusercontent.com/aayushrai/Automated_attendence/origin/images/1.png)
 
 ### Data Collection Page
 
