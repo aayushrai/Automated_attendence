@@ -6,7 +6,7 @@ Haar Cascade classifier used for face detection.Haar cascade. Haar Cascade is a 
 
 ![image](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545248701/21_cctqul.png)
 
-![](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545248703/22_yflnug.gif)
+![gif](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545248703/22_yflnug.gif)
 
 ### The main elements of this technology are as follows
 * Face detection(using OpenCV 4 module)
