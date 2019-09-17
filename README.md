@@ -55,7 +55,7 @@ pip install face_recognition
 
 ### Start Page
 
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/1.PNG)
+![image](https://www.jonnyhatesmarketing.com/wp-content/uploads/2019/01/5-steps-1080x675.jpg)
 
 ### Data Collection Page
 
