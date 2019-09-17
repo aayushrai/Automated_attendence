@@ -1,6 +1,6 @@
 # Automated_attendence
 
-Haar Cascade classifier used for face detection.Haar cascade. Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of feature.Haar Cascade classifier is based on the Haar Wavelet technique to analyse pixels in the image into squares by function. ... Haar cascade classifier is based on Viola Jones detection algorithm which is trained in given some input faces and non-faces and training a classifier which identifies a face. Automated Attendance System is the advancement that has taken place in the field of automation replacing traditional attendance marking activity. Since taking attendance requires time and also prone to proxy making it automated with using face recognition system will increase efficiency.
+Haar Cascade classifier used for face detection. Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of feature.Haar Cascade classifier is based on the Haar Wavelet technique to analyse pixels in the image into squares by function. Haar cascade classifier is based on Viola Jones detection algorithm which is trained in given some input faces and non-faces and training a classifier which identifies a face. Automated Attendance System is the advancement that has taken place in the field of automation replacing traditional attendance marking activity. Since taking attendance requires time and also prone to proxy making it automated with using face recognition system will increase efficiency.
 
 ### Haar cascade working
 
@@ -16,6 +16,28 @@ Haar Cascade classifier used for face detection.Haar cascade. Haar Cascade is a 
 * Auto-generate various types of reports of class or student attendance
 * Real time attendance status tracking.
 * Effective recognition of unique faces in a crowd (individual recognition in crowd).
+
+## Example Images
+
+### Start Page
+
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/1.PNG)
+
+### Data Collection Page
+
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/2.PNG)
+
+### Show Record Page
+
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/4.PNG)
+
+### Add Time Table Page
+
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/3.PNG)
+
+### Enrolled Students Page
+
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/5.PNG)
 
 ### Installing
 
@@ -55,24 +77,3 @@ https://pypi.org/project/face_recognition/
 pip install face_recognition
 ```
 
-## Example Images
-
-### Start Page
-
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/1.PNG)
-
-### Data Collection Page
-
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/2.PNG)
-
-### Show Record Page
-
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/4.PNG)
-
-### Add Time Table Page
-
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/3.PNG)
-
-### Enrolled Students Page
-
-![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/5.PNG)
