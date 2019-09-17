@@ -1,6 +1,12 @@
 # Automated_attendence
 
-In this era of automation many scientific advancements and inventions have taken place to save labor, increase the accuracy and to ameliorate our lives. Automated Attendance System is the advancement that has taken place in the field of automation replacing traditional attendance marking activity. Since taking attendance requires time and also prone to proxy making it automated with using face recognition system will increase efficiency. Even if a new student enters into class, an unsupervised technique can help notifying number of days of his presence in class. As our university is growing, automation will be an enhancement over traditional technologies of student or employee attendance system and also this can be applied on Main Gate to have watch on every incoming-outgoing person.
+Haar Cascade classifier used for face detection.Haar cascade. Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of feature.Haar Cascade classifier is based on the Haar Wavelet technique to analyse pixels in the image into squares by function. ... Haar cascade classifier is based on Viola Jones detection algorithm which is trained in given some input faces and non-faces and training a classifier which identifies a face. Automated Attendance System is the advancement that has taken place in the field of automation replacing traditional attendance marking activity. Since taking attendance requires time and also prone to proxy making it automated with using face recognition system will increase efficiency.
+
+### Haar cascade working
+
+![image](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545248701/21_cctqul.png)
+
+![image](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1545248703/22_yflnug.gif)
 
 ### The main elements of this technology are as follows
 * Face detection(using OpenCV 4 module)
@@ -55,7 +61,7 @@ pip install face_recognition
 
 ### Start Page
 
-![image](https://www.jonnyhatesmarketing.com/wp-content/uploads/2019/01/5-steps-1080x675.jpg)
+![image](https://github.com/aayushrai/Automated_attendence/blob/master/images/1.PNG)
 
 ### Data Collection Page
 
